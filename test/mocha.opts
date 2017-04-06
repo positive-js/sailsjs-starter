@@ -1,0 +1,4 @@
+./test/unit
+--recursive
+--colors
+--timeout 15000
